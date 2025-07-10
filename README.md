@@ -17,3 +17,5 @@ The next version (16.2) will be released tomorrow. I have improved many Unified 
 This font is designed my marcotoa in FontForge.
 
 Charisma New SMP will be released in July 12th, 2025.
+
+<img width="1439" height="863" alt="Screenshot 2025-07-10 at 20 08 41" src="https://github.com/user-attachments/assets/c5bb47cc-240a-43ed-8a64-57f689cb5ba2" />
