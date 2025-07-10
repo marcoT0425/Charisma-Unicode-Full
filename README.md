@@ -15,3 +15,5 @@ However, the worst thing is: there are many missing conjuncts and ligatures for 
 The next version (16.2) will be released tomorrow. I have improved many Unified Canadian Aboriginal Syllabics glyphs. There is a defect of the glyph [ᘠ] Canadian Syllabics Jji in the first version, so for the future version, I have fixed it already.
 
 This font is designed my marcotoa in FontForge.
+
+Charisma New SMP will be released in July 12th, 2025.
