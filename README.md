@@ -22,4 +22,4 @@ Charisma New SMP will be released in July 12th, 2025.
 
 <img width="1439" height="863" alt="Screenshot 2025-07-10 at 20 08 41" src="https://github.com/user-attachments/assets/c5bb47cc-240a-43ed-8a64-57f689cb5ba2" />
 
-Charisma New SMP is WIP. Egyptian Hierographs and Duployan will not be supported in this font. I will design a new font called CharismaUni Special.
+Charisma New SMP is WIP. Egyptian Hierographs, Signwriting and Duployan will not be supported in this font. I will design a new font called CharismaUni Special.
