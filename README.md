@@ -1,4 +1,6 @@
 # Charisma-Unicode-Full
+<img width="669" height="342" alt="Screenshot 2025-07-10 at 20 19 27" src="https://github.com/user-attachments/assets/23c610a9-05cf-4483-99e1-649aa8de5ea2" />
+
 Charisma Unicode is a fallback font. Unlike GNU Unifont, all the glyphs are not designed in a pixel style.
 
 Since the font file is too big, you can go to this link to download this font.
