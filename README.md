@@ -20,7 +20,8 @@ This font is designed my marcotoa in FontForge.
 
 Charisma New SMP will be released in July 12th, 2025.
 
-From now, I'm working with the New Gardiner font to remove all [nc] glyphs.
+Thank you @Mercury13 for providing the SeshUnicode Font. I'm so glad about it.
+
 
 <img width="1439" height="863" alt="Screenshot 2025-07-10 at 20 08 41" src="https://github.com/user-attachments/assets/c5bb47cc-240a-43ed-8a64-57f689cb5ba2" />
 
