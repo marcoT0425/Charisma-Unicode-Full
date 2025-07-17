@@ -1,4 +1,4 @@
-# Charisma-Unicode-Full
+# Charisma-Unicode-Full and other Unicode 16.0 Unicode fonts
 <img width="669" height="342" alt="Screenshot 2025-07-10 at 20 19 27" src="https://github.com/user-attachments/assets/23c610a9-05cf-4483-99e1-649aa8de5ea2" />
 
 Charisma Unicode is a fallback font. Unlike GNU Unifont, all the glyphs are not designed in a pixel style.
@@ -24,5 +24,7 @@ Thank you @Mercury13 for providing the SeshUnicode Font. I'm so glad about it.
 
 
 <img width="1439" height="863" alt="Screenshot 2025-07-10 at 20 08 41" src="https://github.com/user-attachments/assets/c5bb47cc-240a-43ed-8a64-57f689cb5ba2" />
+
+Andika Plus is coming soon.
 
 Charisma New SMP is WIP. Egyptian Hierographs, Signwriting and Duployan will not be supported in this font. I will design a new font called CharismaUni Special.
