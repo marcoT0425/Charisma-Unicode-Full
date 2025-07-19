@@ -18,8 +18,6 @@ The next version (16.2) will be released tomorrow. I have improved many Unified 
 
 This font is designed my marcotoa in FontForge.
 
-Charisma New SMP will be released in July 12th, 2025.
-
 Thank you @Mercury13 for providing the SeshUnicode Font. I'm so glad about it.
 
 
@@ -27,4 +25,5 @@ Thank you @Mercury13 for providing the SeshUnicode Font. I'm so glad about it.
 
 Andika Plus is coming soon.
 
-Charisma New SMP is WIP. Egyptian Hierographs, Signwriting and Duployan will not be supported in this font. I will design a new font called CharismaUni Special.
+Andika Plus is the extended version of SIL's Andika. Andika is a Swahili word (verb) for "to write". It has full support of Latin, Greek and Cyrillic.
+Saudi Riyal Sign will be supported in the Charlie Arabic font.
