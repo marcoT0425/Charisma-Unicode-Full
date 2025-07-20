@@ -27,3 +27,6 @@ Andika Plus is coming soon.
 
 Andika Plus is the extended version of SIL's Andika. Andika is a Swahili word (verb) for "to write". It has full support of Latin, Greek and Cyrillic.
 Saudi Riyal Sign will be supported in the Charlie Arabic font.
+
+<img width="607" height="157" alt="Screenshot 2025-07-20 at 15 36 34" src="https://github.com/user-attachments/assets/ae7721c4-9965-4d09-b080-b30b15a4c1c3" />
+Andika Plus has been released. It also supports Greek and Old Cyrillic.
