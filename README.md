@@ -1,4 +1,4 @@
-# Charisma-Unicode-Full and other Unicode 16.0 Unicode fonts
+# Charisma Unicode Full
 <img width="669" height="342" alt="Screenshot 2025-07-10 at 20 19 27" src="https://github.com/user-attachments/assets/23c610a9-05cf-4483-99e1-649aa8de5ea2" />
 
 Charisma Unicode is a fallback font. Unlike GNU Unifont, all the glyphs are not designed in a pixel style.
@@ -19,9 +19,7 @@ This font is designed my marcotoa in FontForge.
 
 Thank you @Mercury13 for providing the SeshUnicode Font. I'm so glad about it.
 
-
-<img width="1439" height="863" alt="Screenshot 2025-07-10 at 20 08 41" src="https://github.com/user-attachments/assets/c5bb47cc-240a-43ed-8a64-57f689cb5ba2" />
-
+# Andika Plus
 
 <img width="607" height="157" alt="Screenshot 2025-07-20 at 15 36 34" src="https://github.com/user-attachments/assets/ae7721c4-9965-4d09-b080-b30b15a4c1c3" />
 
