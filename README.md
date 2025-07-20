@@ -14,7 +14,6 @@ After that, you need to click on [Apperance] -> [Customize fonts] and change the
 
 However, the worst thing is: there are many missing conjuncts and ligatures for the Indic scripts, such as Bengali, Devanagari, Tamil etc. You can download [Nirmala UI] in Fontke (Mac Only).
 
-The next version (16.2) will be released tomorrow. I have improved many Unified Canadian Aboriginal Syllabics glyphs. There is a defect of the glyph [ᘠ] Canadian Syllabics Jji in the first version, so for the future version, I have fixed it already.
 
 This font is designed my marcotoa in FontForge.
 
